@@ -13,5 +13,5 @@ At the moment I am a 1st year student of MIPT. Here some of my fascinating proje
 
 1. [Printf (own assembler version)](https://github.com/Vokerlee/Assembly/tree/main/2.1.%20Printf)
 2. [Akinator](https://github.com/Vokerlee/Compiler-technologies/tree/master/7.%20Akinator)
-3. [Hash functions reserch](https://github.com/Vokerlee/Assembly/tree/main/5.1.%20%20Hash-table's%20research)
+3. [Hash functions research](https://github.com/Vokerlee/Assembly/tree/main/5.1.%20%20Hash-table's%20research)
 4. [Hash-table optimization](https://github.com/Vokerlee/Assembly/tree/main/5.2.%20Hash-table's%20optimization)
