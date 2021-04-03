@@ -1,4 +1,8 @@
-### Hi there 👋
+### Glad to welcome you
+
+At the moment I am a 1st year student of MIPT. Here some of my fascinating projects:
+
+
 
 <!--
 **Vokerlee/Vokerlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
