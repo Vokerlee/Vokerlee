@@ -13,7 +13,7 @@ At the moment I am a 1st year student of MIPT. Here some of my fascinating proje
 7. [Printf (own assembler version)](https://github.com/Vokerlee/Assembly/tree/main/2.1.%20Printf)
 8. [SSE optimization](https://github.com/Vokerlee/Assembly/tree/main/4.%20Mandelbrot%20optimization)
 
-Other projects could be find in repositories
+Other projects could be found in repositories
 
 
 
