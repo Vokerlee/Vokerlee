@@ -10,8 +10,7 @@ At the moment I am a 1st year student of MIPT. Here some of my fascinating proje
 4. [Hash-table optimization](https://github.com/Vokerlee/Assembly/tree/main/5.2.%20Hash-table's%20optimization)
 5. [Akinator](https://github.com/Vokerlee/Compiler-technologies/tree/master/7.%20Akinator)
 6. [Printf (own assembler version)](https://github.com/Vokerlee/Assembly/tree/main/2.1.%20Printf)
-7. [Hash functions research](https://github.com/Vokerlee/Assembly/tree/main/5.1.%20%20Hash-table's%20research)
-8. [SSE optimization](https://github.com/Vokerlee/Assembly/tree/main/4.%20Mandelbrot%20optimization)
+7. [SSE optimization](https://github.com/Vokerlee/Assembly/tree/main/4.%20Mandelbrot%20optimization)
 
 Other projects could be found in repositories
 
