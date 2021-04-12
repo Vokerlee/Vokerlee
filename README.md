@@ -13,16 +13,3 @@ At the moment I am a 1st year student of MIPT. Here some of my fascinating proje
 7. [Alpha blending with SSE optimization](https://github.com/Vokerlee/Assembly/tree/main/6.%20Alpha%20blending)
 
 Other projects could be found in repositories.
-
-Some stats:
-
-<p align="center" >  
-    <a href="https://github.com/anuraghazra/github-readme-stats"> 
-        <img  src="https://github-readme-stats.vercel.app/api?username=Vokerlee&&show_icons=true&theme=radical"/>
-    </a>
-</p>
-
-
-
-
-
