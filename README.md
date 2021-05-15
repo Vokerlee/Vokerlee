@@ -10,4 +10,6 @@ At the moment I am a 1st year student of MIPT. Here some of my fascinating proje
 4. [Hash-table optimization](https://github.com/Vokerlee/Assembly/tree/main/5.2.%20Hash-table's%20optimization)
 5. [Alarm-clock (STM32)](https://github.com/Vokerlee/Alarm-Clock-STM32)
 6. [How to create EXE file](https://github.com/Vokerlee/Create-EXE-in-20-minutes)
+
+
 Other projects could be found in repositories.
