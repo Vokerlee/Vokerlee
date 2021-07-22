@@ -7,6 +7,7 @@ Here are some of the most pithy and interesting projects:
 ## 1 course
 
 * [CMM or C-- language (programming language)](https://github.com/Vokerlee/CMM-Language)
+  [SHUE Language](https://github.com/Vokerlee/SHUE-Language)
 * [CMM Compiler](https://github.com/Vokerlee/CMM-Compiler)
 * [How to create EXE file](https://github.com/Vokerlee/Create-EXE-in-20-minutes)
 * [nCPU (own assembler + CPU)](https://github.com/Vokerlee/Compiler-technologies/tree/master/5.%20nCPU)
