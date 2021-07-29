@@ -9,7 +9,7 @@ Here are some of the most pithy and important projects:
 * Shooter game, based on 3D simulation (ray-casting):
     * [Ardua Shooter](https://github.com/Vokerlee/ArduaShooter)
 * Programming languages, based on nCPU (see below):
-    * [CMM or C-- language (programming language)](https://github.com/Vokerlee/CMM-Language)
+    * [CMM or C-- language](https://github.com/Vokerlee/CMM-Language)
     * [SHUE Language](https://github.com/Vokerlee/SHUE-Language)
 * Compiler, based on CMM language:
 	* [CMM Compiler](https://github.com/Vokerlee/CMM-Compiler)
