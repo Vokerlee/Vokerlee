@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <a href="https://vk.com/vokerlee" target="blank"><img align="center" src="https://mirekom.ru/img/vk.png" alt="vk account" height="40" width="40" /></a>
+    <a href="https://vk.com/vokerlee" target="blank"><img align="center" src="https://img2.freepng.ru/20180412/eee/kisspng-social-media-vkontakte-computer-icons-social-netwo-juce-5acefcd207f5b2.5941587915235145780326.jpg" alt="vk account" height="40" width="40" /></a>
      <a href = "mailto: vokerlee@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" /></a>
 </p>
 
