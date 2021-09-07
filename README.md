@@ -9,8 +9,9 @@
     <img src="https://img.shields.io/badge/Languages-English%20%26%20Russian-brightgreen" />
 </p>
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Roman Glaz! </h1>
+<h3 align="center">MIPT Student | System Programmer </h3>
 
-### Hi, I am Roman Glaz!
 Now I am a 2st year MIPT student (Moscow Institute of Physics and Technology) of FRCT (Faculty of Radio Engineering and Computer Technologies)
 
 Here are some of the most pithy and important projects:
