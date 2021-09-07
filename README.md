@@ -1,18 +1,16 @@
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
-</p>
-
 <p align="center">
     <img src="https://img.shields.io/badge/Age-18-blue" />
-    <img src="https://img.shields.io/badge/Focus-System%20Programming-brightgreen" />
+    <img src="https://img.shields.io/badge/Focus-System%20Programming-green" />
     <img src="https://img.shields.io/badge/Lives-Russia-success" />
     <img src="https://img.shields.io/badge/Languages-English%20%26%20Russian-brightgreen" />
 </p>
 
+<hr>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Roman Glaz! </h1>
 <h3 align="center">MIPT Student | System Programmer </h3>
 
-Now I am a 2st year MIPT student (Moscow Institute of Physics and Technology) of FRCT (Faculty of Radio Engineering and Computer Technologies)
+I am currently MIPT student (Moscow Institute of Physics and Technology) on Department of Radio Engineering and Computer Technologies!
 
 Here are some of the most pithy and important projects:
 
