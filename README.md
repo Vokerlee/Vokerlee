@@ -1,12 +1,13 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Age-18-blue" />
     <img src="https://img.shields.io/badge/Focus-System%20Programming-darkgreen" />
-    <img src="https://img.shields.io/badge/Lives-Russia-success" />
-    <img src="https://img.shields.io/badge/Languages-English%20%26%20Russian-brightgreen" />
+    <img src="https://img.shields.io/badge/Lives-Russia-dark-blue" />
+    <img src="https://img.shields.io/badge/Languages-English%20%26%20Russian-green" />
 </p>
 
 <p align="center">
-    <a href="https://vk.com/vokerlee" target="blank"><img align="center" src="http://yspu.org/images/5/5f/Vk_logo.svg" alt="vk account" height="30" width="40" /></a>
+    <a href="https://vk.com/vokerlee" target="blank"><img align="center" src="http://yspu.org/images/5/5f/Vk_logo.svg" alt="vk account" height="40" width="40" /></a>
+     <a href = "mailto: vokerlee@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" /></a>
 </p>
 
 <hr>
