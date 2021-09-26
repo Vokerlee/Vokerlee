@@ -8,7 +8,7 @@
 <p align="center">
     <a href="https://vk.com/vokerlee" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/306/PNG/512/VK-Icon_33969.png" alt="vk account" height="40" width="40" /></a>
     <a href = "mailto: vokerlee@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" /></a>
-    <a href = "tg.me/vokerlee"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" height="35" width="36" /></a>
+    <a href = "tg.me/vokerlee"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" height="35" width="35" /></a>
 </p>
 
 <hr>
