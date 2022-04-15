@@ -22,20 +22,24 @@ Here are some of the most pithy and important projects:
 
 ## Main projects
 
-* Shooter game, based on 3D simulation (ray-casting):
-    * [RISC-V Elf Interpreter](https://github.com/Vokerlee/RISC-V-ELF-Interpreter)
-* Programming language, based on nCPU (see below):
+* Programming language which supports LLVM IR generation and compilation to own assembler VASM (see below)
     * [CMM or C-- language](https://github.com/Vokerlee/CMM-Language)
-* Compiler, based on CMM language:
+* Compiler of CMM language which generates x86-64 PE (.EXE) executable file
     * [CMM Compiler](https://github.com/Vokerlee/CMM-Compiler)
+* RISC-V Elf programs' interpreter
+    * [RISC-V Elf Interpreter](https://github.com/Vokerlee/RISC-V-ELF-Interpreter)
 * A clear and tough guide how to create executable file:
     * [How to create EXE file](https://github.com/Vokerlee/Create-EXE-in-20-minutes)
+* Shooter game, based on 3D simulation (ray-casting):
+    * [Ardua Shooter](https://github.com/Vokerlee/ArduaShooter)
 
 ## Less significant, but still interesting projects
-* Own assembly language and CPU for it (nCPU):
+* Own assembly language VASM and CPU for it (nCPU):
     * [nCPU](https://github.com/Vokerlee/Compiler-technologies/tree/master/nCPU)
+* [Hash-table optimization](https://github.com/Vokerlee/Assembly/tree/master/5.2.%20Hash-table's%20optimization)
+* Programs written via Linux API (daemon-backuper, shared stack, etc)
+    * [Linux OS Course](https://github.com/Vokerlee/Linux-OS-Course)
 * Alarm-clock, written for STM32 microcontrollers:
     * [Alarm-clock (STM32)](https://github.com/Vokerlee/Alarm-Clock-STM32)
-* [Hash-table optimization](https://github.com/Vokerlee/Assembly/tree/master/5.2.%20Hash-table's%20optimization)
 
 Also there are a lot of other funny projects, they can be found in repositories.
