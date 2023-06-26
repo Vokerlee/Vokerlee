@@ -1,11 +1,9 @@
 <p align="left">
-    <img src="https://img.shields.io/badge/Age-19-blue" />
+    <img src="https://img.shields.io/badge/Age-20-blue" />
     <img src="https://img.shields.io/badge/Focus-System%20Programming-darkgreen" />
     <img src="https://img.shields.io/badge/Lives-Russia-darkblue" />
     <img src="https://img.shields.io/badge/Languages-English%20%26%20Russian-red" />
 </p>
-
-
 
 <h1 align="left">Roman Glaz </h1>
 <h3 align="left">MIPT DREC Student (3rd course) | System Programmer </h3>
