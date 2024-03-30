@@ -16,7 +16,7 @@
     * Scheduler algorithms/optimizations
     * Linux drivers programming
   * Computer-system architecture research
-    * Architecture simulation (gem5, arm64)
+    * Architecture simulation (gem5, arm64, risc-v)
     * Heterogenious system architecture models for linux-kernel
 
 ## Contacts
