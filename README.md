@@ -5,11 +5,12 @@
     <img src="https://img.shields.io/badge/Languages-English%20%26%20Russian-red" />
 </p>
 
-<h1 align="left">Roman Glaz </h1>
+<h1 align="left">Roman Glaz</h1>
 
-## About me
-  * MIPT student (bachelor's degree, 4rd course)
+## About me & CV
+  * MIPT student (master's degree, 5th course)
   * Work in Huawei company
+  * [CV can be found here](https://github.com/Vokerlee/roman-glaz-cv)
 
 ## Area of interest
   * Linux kernel programming
@@ -23,7 +24,3 @@
   * Email: [vokerlee@gmail.com](mailto:vokerlee@gmail.com)
   * Telegram: [@Vokerlee](https://telegram.me/vokerlee)
   * VK: [vk.com/vokerlee](https://vk.com/vokerlee)
-
-## Some of projects
-  * To be done
-
