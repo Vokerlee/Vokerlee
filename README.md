@@ -10,7 +10,7 @@
 ## About me & CV
   * MIPT student (master's degree, 5th course)
   * Work in Sber company
-  * [CV can be found here (not actual from September 2024)](https://github.com/Vokerlee/roman-glaz-cv)
+  * [CV can be found here (not actual since September 2024)](https://github.com/Vokerlee/roman-glaz-cv)
 
 ## Area of interest
   * Linux kernel programming
