@@ -8,16 +8,17 @@
 <h1 align="left">Roman Glaz</h1>
 
 ## About me & CV
-  * MIPT student (master's degree, 5th course)
+  * MIPT student (master's degree, 2th course)
   * Work in Sber company
-  * [CV can be found here (not actual since September 2024)](https://github.com/Vokerlee/roman-glaz-cv)
+  * [My actual CV](https://github.com/Vokerlee/roman-glaz-cv)
 
 ## Area of interest
-  * Linux kernel programming
-    * Scheduler algorithms/optimizations
   * Computer-system architecture research
     * Architecture simulation (gem5, arm64, risc-v)
     * Heterogenious system architecture models for linux-kernel
+  * Neural networks
+  * Linux kernel programming
+    * Scheduler algorithms/optimizations
 
 ## Contacts
   * Email: [vokerlee@gmail.com](mailto:vokerlee@gmail.com)
