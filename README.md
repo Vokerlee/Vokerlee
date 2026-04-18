@@ -20,6 +20,7 @@
   * Linux kernel programming
     * Heterogenious system specific algorithms for kernel scheduler & CPU/SoC frequency scaling
     * CPU/SoC frequency governors/drivers
+  * Algorithmic trading in crypto
 
 ## Contacts
   * Email: [vokerlee@gmail.com](mailto:vokerlee@gmail.com)
